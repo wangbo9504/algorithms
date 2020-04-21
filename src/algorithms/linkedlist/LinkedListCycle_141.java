@@ -20,6 +20,7 @@ public class LinkedListCycle_141 {
      * 快慢指针法
      * 时间复杂度 O(n)
      * 空间复杂度 O(1)
+     *
      * 定义两个迭代速度不同的快慢指针(相当于环形赛道上的两名运动员),如果链表有环,则快指针在之后的迭代过程中一定会追上慢指针
      */
     public boolean hasCycle(ListNode head) {
@@ -41,6 +42,7 @@ public class LinkedListCycle_141 {
      * 哈希法
      * 时间复杂度 O(n)
      * 空间复杂度 O(n)
+     *
      * 遍历链表的过程中将元素存入哈希表,如果链表有环则新迭代的元素必然会重复出现在哈希表中
      */
     public boolean hasCycleByHash(ListNode head) {
