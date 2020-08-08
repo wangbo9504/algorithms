@@ -1,4 +1,4 @@
-package algorithms.array;
+package array;
 
 /**
  * 6.Z字形变换

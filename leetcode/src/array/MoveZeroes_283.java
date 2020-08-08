@@ -1,4 +1,4 @@
-package algorithms.array;
+package array;
 
 /**
  * 283.移动零

@@ -1,4 +1,4 @@
-package algorithms.array;
+package array;
 
 /**
  * 410.分割数组的最大值

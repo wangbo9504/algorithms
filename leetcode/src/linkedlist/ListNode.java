@@ -1,4 +1,4 @@
-package algorithms.linkedlist;
+package linkedlist;
 
 public class ListNode {
 

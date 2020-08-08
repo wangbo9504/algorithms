@@ -1,4 +1,4 @@
-package algorithms.tree;
+package tree;
 
 public class TreeNode {
 

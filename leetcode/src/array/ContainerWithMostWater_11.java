@@ -1,4 +1,4 @@
-package algorithms.array;
+package array;
 
 /**
  * 11.盛最多水的容器

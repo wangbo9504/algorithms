@@ -1,4 +1,4 @@
-package algorithms.array;
+package array;
 
 /**
  * LCP 12.小张刷题计划

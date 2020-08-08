@@ -1,4 +1,4 @@
-package algorithms.array;
+package array;
 
 /**
  * 13.罗马数字转整数
