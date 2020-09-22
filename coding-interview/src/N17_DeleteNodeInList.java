@@ -29,9 +29,3 @@ public class N17_DeleteNodeInList {
         return head;
     }
 }
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}
